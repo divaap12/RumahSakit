@@ -1,0 +1,22 @@
+{
+	"rumah_sakit":
+					[
+						{
+							"id":1,
+							"nama":"Rumah Sakit Islam",
+							"jenis":"masjid",
+							"latitude":"-6.555715",
+							"longitude":"107.441069"
+						},
+
+						{
+							"id":2,
+							"nama":"Rumah Sakit Hermina",
+							"jenis":"masjid",
+							"latitude":"-6.555715",
+							"longitude":"109.441069"
+						}
+
+
+					]
+}						
