@@ -4,17 +4,23 @@
 						{
 							"id":1,
 							"nama":"Rumah Sakit Islam",
-							"jenis":"masjid",
-							"latitude":"-6.555715",
-							"longitude":"107.441069"
+							"alamat":"Jl. Mashuri No.39, Kalibogor, Rejasari, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53134",
+							"no_tlp":"+62281630019",
+							"koordinat":"-7.4185817,109.2125975",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
 						},
 
 						{
-							"id":2,
+							"id":1,
 							"nama":"Rumah Sakit Hermina",
-							"jenis":"masjid",
-							"latitude":"-6.555715",
-							"longitude":"109.441069"
+							"alamat":"Jl. Yos Sudarso, RT.03/RW.01, Karanglewas Lor, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53136",
+							"no_tlp":"+622817772525",
+							"koordinat":"-7.4207704,109.2024529",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
 						}
 
 
