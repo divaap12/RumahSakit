@@ -1,0 +1,42 @@
+{
+	"rumah_sakit":
+					[
+						{
+							"id":1,
+							"nama":"Rumah Sakit Islam",
+							"alamat":"Jl. Mashuri No.39, Kalibogor, Rejasari, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53134",
+							"no_tlp":"+62281630019",
+							"koordinat":"-7.4185817,109.2125975",
+							"gambar_url":"",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
+						},
+
+						{
+							"id":2,
+							"nama":"Rumah Sakit Hermina",
+							"alamat":"Jl. Yos Sudarso, RT.03/RW.01, Karanglewas Lor, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53136",
+							"no_tlp":"+622817772525",
+							"koordinat":"-7.4207704,109.2024529",
+							"gambar_url":"",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
+						},
+						
+						{
+							"id":3,
+							"nama":"Rumah Sakit Elisabet",
+							"alamat":"Jl. Yos Sudarso, RT.03/RW.01, Karanglewas Lor, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53136",
+							"no_tlp":"+622817772525",
+							"koordinat":"-7.4207704,109.2024529",
+							"gambar_url":"",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
+						}
+
+
+					]
+}						
