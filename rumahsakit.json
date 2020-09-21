@@ -23,6 +23,18 @@
 							"fasilitas":"",
 							"harga":"",
 							"laborat":""
+						},
+						
+						{
+							"id":3,
+							"nama":"Rumah Sakit Elisabet",
+							"alamat":"Jl. Yos Sudarso, RT.03/RW.01, Karanglewas Lor, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53136",
+							"no_tlp":"+622817772525",
+							"koordinat":"-7.4207704,109.2024529",
+							"gambar_url":"",
+							"fasilitas":"",
+							"harga":"",
+							"laborat":""
 						}
 
 
